@@ -1,0 +1,637 @@
+{
+  "users": [
+    {
+      "id": "user_admin_01",
+      "name": "Super Administrator",
+      "email": "admin@manpower.com",
+      "role": "super_admin",
+      "created_at": "2026-06-17T00:09:03.400Z",
+      "updated_at": "2026-06-17T00:09:03.400Z",
+      "known_devices": [
+        "Chrome / Safari on Microsoft Windows PC (IP: 36.50.179.32)",
+        "Chrome / Safari on Microsoft Windows PC (IP: 36.50.179.34)",
+        "Chrome / Safari on Microsoft Windows PC (IP: 127.0.0.1)",
+        "Chrome / Safari on Microsoft Windows PC (IP: 203.190.34.197)"
+      ]
+    },
+    {
+      "id": "user_1781677802596",
+      "name": "Sadik Ahmmed",
+      "email": "sadikbusiness29@gmail.com",
+      "role": "super_admin",
+      "created_at": "2026-06-17T06:30:02.596Z",
+      "updated_at": "2026-06-17T06:30:02.596Z",
+      "known_devices": [
+        "Chrome / Safari on Microsoft Windows PC (IP: 127.0.0.1)"
+      ]
+    }
+  ],
+  "passwords": {
+    "user_admin_01": "$2b$10$AvpB8fQn8frtsepxFTOMbexE0g/dIk4SwJxRpBOiBjRwuf0iMxztq",
+    "user_1781677802596": "$2b$10$WgFYC.yop1Ybpb9FIHERdOmlihpqQGRpyV/UdteVVOB1hNp57s.lq"
+  },
+  "applicants": [
+    {
+      "id": "app_b8svkhu1m",
+      "full_name": "Tranzo",
+      "father_name": "Rakib",
+      "mother_name": "Hakima",
+      "dob": "1996-02-15",
+      "age": 30,
+      "nid": "0125210352321",
+      "phone": "0185263496252",
+      "email": "info.bloodora@gmail.com",
+      "address": "Bangladesh",
+      "category": "pickup",
+      "experience": "10 Years",
+      "skills": "Matha",
+      "photo": "/uploads/image-1781877894787-55107522.webp",
+      "documents": "Manual Registry",
+      "status": "approved",
+      "created_at": "2026-06-17T06:34:35.869Z",
+      "helper_type": "maid_cleaner",
+      "security_type": "residential_guard",
+      "location": "Dhaka",
+      "vehicle_type": "pickup_small",
+      "vehicle_photo": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&q=80&w=600",
+      "route": "kalfdjksgfnjg",
+      "capacity": 1.5,
+      "schedule": "day_shift",
+      "area": "Dhaka",
+      "description": "dsfhdfhgsdgvsdv",
+      "is_premium": true,
+      "car_photo": "/uploads/image-1781877900136-407492929.jpeg"
+    },
+    {
+      "id": "app_2lzjmghy4",
+      "full_name": "fdhugjsui",
+      "father_name": "gerherfhhr",
+      "mother_name": "hrthrttjhdtjrj",
+      "dob": "2001-03-15",
+      "age": 25,
+      "nid": "35632737838",
+      "phone": "3587235209",
+      "email": "",
+      "address": "hejdgjhd",
+      "category": "pickup",
+      "experience": "10+ Years",
+      "skills": "",
+      "photo": "/uploads/image-1781847246109-58974219.png",
+      "front_nid": "/uploads/image-1781847253068-111229069.png",
+      "back_nid": "/uploads/image-1781847258617-656517355.png",
+      "documents": "Front Side and Back Side NID Copies provided online",
+      "car_type": "Pickup",
+      "car_number_plate": "dvdbgdhujk-metro-35324",
+      "license_number": "fbdfg3rdf",
+      "car_photo": "/uploads/image-1781847215120-119331325.webp",
+      "license_card_photo": "/uploads/image-1781847265588-533180861.png",
+      "status": "approved",
+      "created_at": "2026-06-19T05:34:28.173Z",
+      "helper_type": "Housemaid",
+      "security_type": "Residential Security",
+      "location": "hsrhffd",
+      "vehicle_type": "bfdbdf",
+      "route": "sfhsh",
+      "capacity": 1,
+      "schedule": "12-34",
+      "area": "hsrhffd",
+      "description": "fgdhssdfhs",
+      "is_premium": true
+    },
+    {
+      "id": "app_tk7l5p77e",
+      "full_name": "Md Sadik",
+      "father_name": "Hozoborolo",
+      "mother_name": "Hozoborolo",
+      "dob": "2007-12-02",
+      "age": 18,
+      "nid": "153644852",
+      "phone": "01780512466",
+      "email": "sadikbusiness29@gmail.com",
+      "address": "Kalai, Rajshahi, Bangladesh",
+      "category": "pickup",
+      "experience": "5-10 Years",
+      "skills": "",
+      "photo": "/uploads/image-1781851930046-733239042.png",
+      "front_nid": "/uploads/image-1781851937701-113212604.png",
+      "back_nid": "/uploads/image-1781851941626-948207299.png",
+      "documents": "Front Side and Back Side NID Copies provided online",
+      "car_type": "Motorcycle",
+      "car_number_plate": "Joypurhat H - 150320",
+      "license_number": "DK2fHfgs",
+      "car_photo": "/uploads/image-1781851946025-215559822.webp",
+      "license_card_photo": "/uploads/image-1781851954296-243001459.png",
+      "status": "approved",
+      "created_at": "2026-06-19T06:52:36.571Z",
+      "helper_type": "Housemaid",
+      "security_type": "Residential Security",
+      "location": "Joypurhat",
+      "vehicle_type": "Lamborghini Urus",
+      "route": "Joypurhat",
+      "capacity": 2,
+      "schedule": "7 AM - 10 AM",
+      "area": "Joypurhat",
+      "description": "testibng",
+      "is_premium": true
+    },
+    {
+      "id": "app_runs2n1tq",
+      "full_name": "gdsghsdius",
+      "father_name": "gsdgdsh",
+      "mother_name": "dsfghdshgdsf",
+      "dob": "1120-03-15",
+      "age": 906,
+      "nid": "1542965",
+      "phone": "018552285",
+      "email": "",
+      "address": "gssdgsad",
+      "category": "pickup",
+      "experience": "10+ Years",
+      "skills": "",
+      "photo": "/uploads/image-1781865120007-614857132.jpeg",
+      "front_nid": "/uploads/image-1781865126688-9698237.jpg",
+      "back_nid": "/uploads/image-1781865131167-482697116.png",
+      "documents": "Front Side and Back Side NID Copies provided online",
+      "car_type": "Pickup",
+      "car_number_plate": "asdgasg",
+      "license_number": "agasdg",
+      "car_photo": "/uploads/image-1781865135287-985454383.webp",
+      "license_card_photo": "/uploads/image-1781865140455-491507408.png",
+      "status": "approved",
+      "created_at": "2026-06-19T10:32:21.528Z",
+      "helper_type": "Housemaid",
+      "security_type": "Residential Security",
+      "location": "gasdga",
+      "vehicle_type": "asdgvasg",
+      "route": "agdgfa",
+      "capacity": 15,
+      "schedule": "15-17",
+      "area": "gasdga",
+      "description": "fgasdgafgsdg",
+      "is_premium": false
+    },
+    {
+      "id": "app_5vbyejuxy",
+      "full_name": "Sadik Ahmmed",
+      "father_name": "Hamid ",
+      "mother_name": "karima",
+      "dob": "2026-06-10",
+      "age": 0,
+      "nid": "1234567891",
+      "phone": ".0515841889",
+      "email": "",
+      "address": "uyhi",
+      "category": "pickup",
+      "experience": "Less than 1 Year",
+      "skills": "",
+      "photo": "/uploads/image-1781868909516-870117995.png",
+      "front_nid": "/uploads/image-1781868910968-624897980.png",
+      "back_nid": "/uploads/image-1781868915087-764234365.jpg",
+      "documents": "Front Side and Back Side NID Copies provided online",
+      "car_type": "",
+      "car_number_plate": "",
+      "license_number": "",
+      "car_photo": "/uploads/image-1781868915681-924223386.png",
+      "license_card_photo": "/uploads/image-1781868918781-739452669.png",
+      "status": "pending",
+      "created_at": "2026-06-19T11:35:21.480Z",
+      "helper_type": "Housemaid",
+      "security_type": "Residential Security",
+      "location": "Dhaka",
+      "vehicle_type": "",
+      "route": "",
+      "schedule": "",
+      "area": "Dhaka",
+      "description": ""
+    }
+  ],
+  "service_requests": [
+    {
+      "id": "req_8tllgk8gi",
+      "customer_name": "gsgs",
+      "phone": "32487329572389",
+      "email": "gsdfhg@gsjihg.vg",
+      "address": "dfhsdhs",
+      "service_type": "Pickup Service",
+      "duration": "6 Months",
+      "budget": "150000",
+      "notes": "[AUTO-REQUEST-CANDIDATE: Sakib (app_b8svkhu1m)] fghdd",
+      "status": "completed",
+      "created_at": "2026-06-19T06:07:42.999Z",
+      "assigned_worker_id": "app_b8svkhu1m",
+      "assigned_worker_name": "Sakib"
+    },
+    {
+      "id": "req_froz7xalb",
+      "customer_name": "Md Moshiur Rahman Mohi",
+      "phone": "09638233943",
+      "email": "ffedevbd@gmail.com",
+      "address": "dsgsgds",
+      "service_type": "Pickup Service",
+      "duration": "Daily",
+      "budget": "1500",
+      "notes": "[AUTO-REQUEST-CANDIDATE: gdsghsdius (app_runs2n1tq)] gdsghdsgasdgasd",
+      "status": "completed",
+      "created_at": "2026-06-19T10:35:22.360Z",
+      "assigned_worker_id": "app_tk7l5p77e",
+      "assigned_worker_name": "Md Sadik"
+    }
+  ],
+  "notices": [
+    {
+      "id": "notice_01",
+      "title": "Important Notice: Helper Background Check Policy Upgraded",
+      "content": "To guarantee premium safety, all registered and aspiring Domestic Helpers will now go through mandatory, automated Police Verification clearance checks alongside sub-divisional ward biometric records, with immediate effect from June 1st. Application updates are free.",
+      "priority": "high",
+      "status": "published",
+      "is_pinned": true,
+      "published_date": "2026-06-01T10:00:00.000Y",
+      "created_at": "2026-06-01T10:00:00.000Y"
+    },
+    {
+      "id": "notice_02",
+      "title": "Security Guard Training Seminar rescheduled",
+      "content": "The monthly special tactical fire-safety and threat-neutralisation workshop in tie-up with national volunteers has been rescheduled to Friday, June 20, 2026 at the Main Office complex. All on-bench guards are requested to attend.",
+      "priority": "normal",
+      "status": "published",
+      "is_pinned": false,
+      "published_date": "2026-06-12T09:00:00.000Y",
+      "created_at": "2026-06-12T08:30:00.000Y"
+    },
+    {
+      "id": "notice_03",
+      "title": "Bangla & English Language Helpdesk Live!",
+      "content": "We have updated our manpower platform to support fully integrated Bangla translation switchers and local helpline contact parameters. Candidates and employers can choose their desired dialect seamlessly.",
+      "priority": "low",
+      "status": "published",
+      "is_pinned": false,
+      "published_date": "2026-06-15T15:00:00.000Y",
+      "created_at": "2026-06-15T14:45:00.000Y"
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": "log_d1txa6o7k",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "User logged in securely (super_admin) on trusted terminal/dev: Chrome / Safari / Microsoft Windows PC",
+      "created_at": "2026-06-19T18:12:25.179Z"
+    },
+    {
+      "id": "log_vdngs58qv",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Tranzo (Status to: approved)",
+      "created_at": "2026-06-19T14:10:51.117Z"
+    },
+    {
+      "id": "log_zoxe11l4j",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-19T14:05:43.576Z"
+    },
+    {
+      "id": "log_imeu4xqth",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Tranzo (Status to: approved)",
+      "created_at": "2026-06-19T14:05:01.091Z"
+    },
+    {
+      "id": "log_3acgy1h1t",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Tranzo (Status to: approved)",
+      "created_at": "2026-06-19T14:04:28.849Z"
+    },
+    {
+      "id": "log_odlz8w03h",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Sakib (Status to: approved)",
+      "created_at": "2026-06-19T14:04:07.322Z"
+    },
+    {
+      "id": "log_xy8ypejfr",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Sakib (Status to: approved)",
+      "created_at": "2026-06-19T13:50:54.320Z"
+    },
+    {
+      "id": "log_kwbi19cuj",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile gdsghsdius (Status to: approved)",
+      "created_at": "2026-06-19T13:30:00.833Z"
+    },
+    {
+      "id": "log_iy9n787oa",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated Service Request or assigned a worker for gsgs. Status: completed",
+      "created_at": "2026-06-19T11:42:01.526Z"
+    },
+    {
+      "id": "log_18z4v4i3p",
+      "user_id": "public",
+      "user_name": "Visitor Form",
+      "action": "New candidate application submitted online: Sadik Ahmmed (pickup)",
+      "created_at": "2026-06-19T11:35:21.481Z"
+    },
+    {
+      "id": "log_f3r0um8lp",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "🚨 SECURITY ALERT: Login initiated from anomalous terminal / browser user-agent: Chrome / Safari on Microsoft Windows PC (IP: 203.190.34.197)",
+      "created_at": "2026-06-19T11:30:26.545Z"
+    },
+    {
+      "id": "log_uqm0gm9tm",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-19T10:57:16.312Z"
+    },
+    {
+      "id": "log_tkwpgmr72",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated Service Request or assigned a worker for Md Moshiur Rahman Mohi. Status: completed",
+      "created_at": "2026-06-19T10:39:26.456Z"
+    },
+    {
+      "id": "log_hdft9ik2j",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated Service Request or assigned a worker for gsgs. Status: cancelled",
+      "created_at": "2026-06-19T10:38:46.517Z"
+    },
+    {
+      "id": "log_xony5lnk3",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-19T10:38:37.105Z"
+    },
+    {
+      "id": "log_mqy2v6z63",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-19T10:38:10.627Z"
+    },
+    {
+      "id": "log_490c0mbh8",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated Service Request or assigned a worker for Md Moshiur Rahman Mohi. Status: in_progress",
+      "created_at": "2026-06-19T10:36:08.769Z"
+    },
+    {
+      "id": "log_0f1n194mj",
+      "user_id": "public",
+      "user_name": "Visitor Form",
+      "action": "New service request placed by customer: Md Moshiur Rahman Mohi for Pickup Service",
+      "created_at": "2026-06-19T10:35:22.361Z"
+    },
+    {
+      "id": "log_9p26lhb96",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile gdsghsdius (Status to: approved)",
+      "created_at": "2026-06-19T10:33:51.028Z"
+    },
+    {
+      "id": "log_77jxtw5gn",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile fdhugjsui (Status to: approved)",
+      "created_at": "2026-06-19T10:33:48.093Z"
+    },
+    {
+      "id": "log_n8sld7hjn",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Md Sadik (Status to: approved)",
+      "created_at": "2026-06-19T10:33:43.259Z"
+    },
+    {
+      "id": "log_qhgmyn8c4",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Sakib (Status to: approved)",
+      "created_at": "2026-06-19T10:33:39.350Z"
+    },
+    {
+      "id": "log_wn97l6ub0",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile gdsghsdius (Status to: approved)",
+      "created_at": "2026-06-19T10:33:08.396Z"
+    },
+    {
+      "id": "log_9685p45at",
+      "user_id": "public",
+      "user_name": "Visitor Form",
+      "action": "New candidate application submitted online: gdsghsdius (pickup)",
+      "created_at": "2026-06-19T10:32:21.529Z"
+    },
+    {
+      "id": "log_nialxeeif",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-19T08:00:17.881Z"
+    },
+    {
+      "id": "log_ko20e1pb0",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile Md Sadik (Status to: approved)",
+      "created_at": "2026-06-19T06:53:17.733Z"
+    },
+    {
+      "id": "log_k70l6ezwj",
+      "user_id": "public",
+      "user_name": "Visitor Form",
+      "action": "New candidate application submitted online: Md Sadik (pickup)",
+      "created_at": "2026-06-19T06:52:36.572Z"
+    },
+    {
+      "id": "log_8xx8bovf1",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-19T06:47:01.293Z"
+    },
+    {
+      "id": "log_d1du2lpea",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated Service Request or assigned a worker for gsgs. Status: in_progress",
+      "created_at": "2026-06-19T06:09:04.372Z"
+    },
+    {
+      "id": "log_okiwn0wud",
+      "user_id": "public",
+      "user_name": "Visitor Form",
+      "action": "New service request placed by customer: gsgs for Pickup Service",
+      "created_at": "2026-06-19T06:07:43.000Z"
+    },
+    {
+      "id": "log_2z3ezrexs",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated applicant profile fdhugjsui (Status to: approved)",
+      "created_at": "2026-06-19T05:34:38.311Z"
+    },
+    {
+      "id": "log_7vxhr8b4f",
+      "user_id": "public",
+      "user_name": "Visitor Form",
+      "action": "New candidate application submitted online: fdhugjsui (pickup)",
+      "created_at": "2026-06-19T05:34:28.175Z"
+    },
+    {
+      "id": "log_jf5ccuim2",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "User logged in securely (super_admin) on trusted terminal/dev: Chrome / Safari / Microsoft Windows PC",
+      "created_at": "2026-06-19T05:12:36.113Z"
+    },
+    {
+      "id": "log_woyn05u7k",
+      "user_id": "user_1781677802596",
+      "user_name": "Sadik Ahmmed",
+      "action": "Updated applicant profile Sakib (Status to: approved)",
+      "created_at": "2026-06-17T06:35:45.937Z"
+    },
+    {
+      "id": "log_qz2o45wuf",
+      "user_id": "user_1781677802596",
+      "user_name": "Sadik Ahmmed",
+      "action": "Updated applicant profile Sakib (Status to: approved)",
+      "created_at": "2026-06-17T06:35:06.111Z"
+    },
+    {
+      "id": "log_12l5boaix",
+      "user_id": "user_1781677802596",
+      "user_name": "Sadik Ahmmed",
+      "action": "Admin manually added candidate: Sakib (pickup) with status approved",
+      "created_at": "2026-06-17T06:34:35.870Z"
+    },
+    {
+      "id": "log_ty4zjeg0j",
+      "user_id": "user_1781677802596",
+      "user_name": "Sadik Ahmmed",
+      "action": "User logged in securely (super_admin) on trusted terminal/dev: Chrome / Safari / Microsoft Windows PC",
+      "created_at": "2026-06-17T06:30:42.358Z"
+    },
+    {
+      "id": "log_bytj3chc1",
+      "user_id": "user_1781677802596",
+      "user_name": "Sadik Ahmmed",
+      "action": "🚨 SECURITY ALERT: Login initiated from anomalous terminal / browser user-agent: Chrome / Safari on Microsoft Windows PC (IP: 127.0.0.1)",
+      "created_at": "2026-06-17T06:30:15.417Z"
+    },
+    {
+      "id": "log_1781677802694",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Created new admin user: Sadik Ahmmed (super_admin)",
+      "created_at": "2026-06-17T06:30:02.694Z"
+    },
+    {
+      "id": "log_zx0uwa8zt",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "User logged in securely (super_admin) on trusted terminal/dev: Chrome / Safari / Microsoft Windows PC",
+      "created_at": "2026-06-17T04:34:59.511Z"
+    },
+    {
+      "id": "log_44yyw0qj6",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "User logged in securely (super_admin) on trusted terminal/dev: Chrome / Safari / Microsoft Windows PC",
+      "created_at": "2026-06-17T04:24:59.326Z"
+    },
+    {
+      "id": "log_zzbqlc8xs",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-17T03:20:50.092Z"
+    },
+    {
+      "id": "log_wvltsg12m",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "User logged in securely (super_admin) on trusted terminal/dev: Chrome / Safari / Microsoft Windows PC",
+      "created_at": "2026-06-17T03:19:33.658Z"
+    },
+    {
+      "id": "log_753ilvau8",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "Updated system website, SMTP, SEO configuration, and metadata settings.",
+      "created_at": "2026-06-17T02:19:36.336Z"
+    },
+    {
+      "id": "log_ngou7a5gt",
+      "user_id": "user_admin_01",
+      "user_name": "Super Administrator",
+      "action": "🚨 SECURITY ALERT: Login initiated from anomalous terminal / browser user-agent: Chrome / Safari on Microsoft Windows PC (IP: 127.0.0.1)",
+      "created_at": "2026-06-17T02:16:18.176Z"
+    }
+  ],
+  "settings": {
+    "company_name": "Tranzo",
+    "logo": "NS Manpower",
+    "contact_number": "+8801780512466",
+    "whatsapp_number": "+8801780512466",
+    "email": "tranzobd@gmail.com",
+    "office_address": "Bogura Sadar, Bogura, Bangladesh",
+    "social_facebook": "https://facebook.com/nsmanpowerbd",
+    "social_twitter": "https://twitter.com/nsmanpowerbd",
+    "social_linkedin": "https://linkedin.com/company/nsmanpowerbd",
+    "seo_title": "Trustworthy Manpower & Service Provider in Bangladesh - Helpers, Security, Pickup",
+    "seo_description": "Hire highly experienced, police-verified Domestic Helpers, professional Armed Security Guards, and premium School & Office Pickup services in Dhaka.",
+    "footer_text": "© 2026 Nirapotta & Seba Manpower Ltd. All rights reserved. Managed under secure Ministry of Labour licenses.",
+    "enable_pickup_services": true,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "notify_new_candidate": true,
+    "notify_new_request": true,
+    "smtp_user": "tranzobd@gmail.com",
+    "smtp_pass": "lehl bpjp dwzt nvfu",
+    "smtp_sender_email": "tranzobd@gmail.com",
+    "smtp_sender_name": "Tranzo",
+    "smtp_recipient_emails": "tranzobd@gmail.com, mdmoshiurrahmanmohi1@gmail.com, sadikbusiness29@gmail.com",
+    "car_types": "Lamborghini"
+  },
+  "services": [
+    {
+      "id": "svc_pickup",
+      "name": "Pickup Services",
+      "icon": "Truck",
+      "description": "Safe and reliable vehicle dispatch services.",
+      "display_order": 3,
+      "enabled": true,
+      "created_at": "2026-06-17T01:23:58.123Z",
+      "image": "/uploads/image-1781677942092-820020474.webp"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1781683036667",
+      "name": "dtfsadfsf",
+      "email": "afasf@gsdg.hg",
+      "subject": "gfyghiujgui",
+      "message": "fdghdfnuighfjsd;lgsdfghfsdgh\n",
+      "status": "unread",
+      "created_at": "2026-06-17T07:57:16.667Z"
+    }
+  ]
+}
